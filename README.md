@@ -25,5 +25,5 @@
 - [ITEM10. equals는 일반 규약을 지켜 재정의하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/02_methods-coomon-to-all-objects.md/#ITEM-10.-equals는-일반-규약을-지켜-재정의하라)
 - [ITEM11. equals를 재정의하려거든 hashCode도 재정의하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/02_methods-coomon-to-all-objects.md/#ITEM-11.-equals를-재정의하려거든-hashCode도-재정의하라)
 - [ITEM12. toString을 항상 재정의하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/02_methods-coomon-to-all-objects.md/#ITEM12.-toString을-항상-재정의하라)
-- ITEM13. clone 재정의는 주의해서 진행하라
-- ITEM14. Comparable을 구현할지 고려하라
+- [ITEM13. clone 재정의는 주의해서 진행하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/02_methods-coomon-to-all-objects.md/#ITEM-13.-clone-재정의는-주의해서-진행하라)
+- [ITEM14. Comparable을 구현할지 고려하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/02_methods-coomon-to-all-objects.md/#ITEM-14.-Comparable을-구현할지-고려하라)
