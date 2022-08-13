@@ -22,8 +22,13 @@
 
 ##### 3장 모든 객체의 공통 메서드
 
-- [ITEM10. equals는 일반 규약을 지켜 재정의하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/02_methods-coomon-to-all-objects.md/#ITEM-10.-equals는-일반-규약을-지켜-재정의하라)
-- [ITEM11. equals를 재정의하려거든 hashCode도 재정의하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/02_methods-coomon-to-all-objects.md/#ITEM-11.-equals를-재정의하려거든-hashCode도-재정의하라)
-- [ITEM12. toString을 항상 재정의하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/02_methods-coomon-to-all-objects.md/#ITEM12.-toString을-항상-재정의하라)
-- [ITEM13. clone 재정의는 주의해서 진행하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/02_methods-coomon-to-all-objects.md/#ITEM-13.-clone-재정의는-주의해서-진행하라)
-- [ITEM14. Comparable을 구현할지 고려하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/02_methods-coomon-to-all-objects.md/#ITEM-14.-Comparable을-구현할지-고려하라)
+- [ITEM10. equals는 일반 규약을 지켜 재정의하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/02_methods-common-to-all-objects.md/#ITEM-10.-equals는-일반-규약을-지켜-재정의하라)
+- [ITEM11. equals를 재정의하려거든 hashCode도 재정의하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/02_methods-common-to-all-objects.md/#ITEM-11.-equals를-재정의하려거든-hashCode도-재정의하라)
+- [ITEM12. toString을 항상 재정의하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/02_methods-common-to-all-objects.md/#ITEM12.-toString을-항상-재정의하라)
+- [ITEM13. clone 재정의는 주의해서 진행하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/02_methods-common-to-all-objects.md/#ITEM-13.-clone-재정의는-주의해서-진행하라)
+- [ITEM14. Comparable을 구현할지 고려하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/02_methods-common-to-all-objects.md/#ITEM-14.-Comparable을-구현할지-고려하라)
+
+##### 4장 클래스와 인터페이스
+
+- [ITEM 15. 클래스와 멤버의 접근 권한을 최소화하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/03_classes-and-interfaces.md/#ITEM-15.-클래스와-멤버의-접근-권한을-최소화하라)
+- [ITEM 16. public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/03_classes-and-interfaces.md/#ITEM-16.-public-클래스에서는-public-필드가-아닌-접근자-메서드를-사용하라)
