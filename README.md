@@ -38,4 +38,6 @@
 - [ITEM 20. 추상 클래스보다는 인터페이스를 우선하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/03_classes-and-interfaces.md/#ITEM-20.-추상-클래스보다는-인터페이스를-우선하라)
 - [ITEM 21. 인터페이스는 구현하는 쪽을 생각해 설계하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/03_classes-and-interfaces.md/#ITEM-21.-인터페이스는-구현하는-쪽을-생각해-설계하라)
 - [ITEM 22. 인터페이스는 타입을 정의하는 용도로만 사용하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/03_classes-and-interfaces.md/#ITEM-22.-인터페이스는-타입을-정의하는-용도로만-사용하라)
-
+- [ITEM 23. 태그 달린 클래스보다는 클래스 계층구조를 활용하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/03_classes-and-interfaces.md/#ITEM-23.-태그-달린-클래스보다는-클래스-계층구조를-활용하라)
+- [ITEM 24. 멤버 클래스는 되도록 static으로 만들라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/03_classes-and-interfaces.md/#ITEM-24.-멤버-클래스는-되도록-static으로-만들라)
+- [ITEM 25. 톱레벨 클래스는 한 파일에 하나만 담으라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/03_classes-and-interfaces.md/#ITEM-25.-톱레벨-클래스는-한-파일에-하나만-담으라)
