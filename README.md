@@ -41,3 +41,8 @@
 - [ITEM 23. 태그 달린 클래스보다는 클래스 계층구조를 활용하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/03_classes-and-interfaces.md/#ITEM-23.-태그-달린-클래스보다는-클래스-계층구조를-활용하라)
 - [ITEM 24. 멤버 클래스는 되도록 static으로 만들라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/03_classes-and-interfaces.md/#ITEM-24.-멤버-클래스는-되도록-static으로-만들라)
 - [ITEM 25. 톱레벨 클래스는 한 파일에 하나만 담으라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/03_classes-and-interfaces.md/#ITEM-25.-톱레벨-클래스는-한-파일에-하나만-담으라)
+
+##### 5장 제네릭
+
+- [ITEM 26. RAW 타입은 사용하지 말라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/04_generics.md/#ITEM-26.-RAW-타입은-사용하지-말라)
+- [ITEM 27. 비검사 경고를 제거하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/04_generics.md/#ITEM-27.-비검사-경고를-제거하라)
