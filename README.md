@@ -46,3 +46,9 @@
 
 - [ITEM 26. RAW 타입은 사용하지 말라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/04_generics.md/#ITEM-26.-RAW-타입은-사용하지-말라)
 - [ITEM 27. 비검사 경고를 제거하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/04_generics.md/#ITEM-27.-비검사-경고를-제거하라)
+- [ITEM 28. 배열보다는 리스트를 사용하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/04_generics.md/#ITEM-28.-배열보다는-리스트를-사용하라)
+- [ITEM 29. 이왕이면 제네릭 타입으로 만들라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/04_generics.md/#ITEM-29.-이왕이면-제네릭-타입으로-만들라)
+- [ITEM 30. 이왕이면 제네릭 메서드로 만들라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/04_generics.md/#ITEM-30.-이왕이면-제네릭-메서드로-만들라)
+- [ITEM 31. 한정적 와일드카드를 사용해 API 유연성을 높이라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/04_generics.md/#ITEM-31.-한정적-와일드카드를-사용해-API-유연성을-높이라)
+- [ITEM 32. 제네릭과 가변인수를 함께 쓸 때는 신중하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/04_generics.md/#ITEM 32.-제네릭과-가변인수를-함께-쓸-때는-신중하라)
+- [ITEM 33. 타입 안전 이종 컨테이너를 고려하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/04_generics.md/#ITEM-33.-타입-안전-이종-컨테이너를-고려하라)
