@@ -52,3 +52,11 @@
 - [ITEM 31. 한정적 와일드카드를 사용해 API 유연성을 높이라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/04_generics.md/#ITEM-31.-한정적-와일드카드를-사용해-API-유연성을-높이라)
 - [ITEM 32. 제네릭과 가변인수를 함께 쓸 때는 신중하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/04_generics.md/#ITEM-32.-제네릭과-가변인수를-함께-쓸-때는-신중하라)
 - [ITEM 33. 타입 안전 이종 컨테이너를 고려하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/04_generics.md/#ITEM-33.-타입-안전-이종-컨테이너를-고려하라)
+
+##### 6장 열거 타입과 애너테이션
+
+- [ITEM 34. int 상수 대신 열거 타입을 사용하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/05_enums-and-annotations.md/#ITEM-34.-int-상수-대신-열거-타입을-사용하라)
+- [ITEM 35. ordinal 메서드 대신 인스턴스 필드를 사용하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/05_enums-and-annotations.md/#ITEM-35.-ordinal-메서드-대신-인스턴스-필드를-사용하라)
+- [ITEM 36. 비트 필드 대신 EnumSet을 사용하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/05_enums-and-annotations.md/#ITEM-36.-비트-필드-대신-EnumSet을-사용하라)
+- [ITEM 37. ordinal 인덱싱 대신 EnumMap을 사용하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/05_enums-and-annotations.md/#ITEM-37.-ordinal-인덱싱-대신-EnumMap을-사용하라)
+- [ITEM 38. 확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/05_enums-and-annotations.md/#ITEM-38.-확장할-수-있는-열거-타입이-필요하면-인터페이스를-사용하라)
